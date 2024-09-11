@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary and Secondary Colors -->
+    <color name="colorPrimary">#003366</color> <!-- Navy Blue -->
+    <color name="colorPrimaryVariant">#2ECC71</color> <!-- Emerald Green -->
+    <color name="colorSecondary">#E67E22</color> <!-- Sunset Orange -->
+    <color name="colorSecondaryVariant">#F1C40F</color> <!-- Golden Yellow -->
+
+    <!-- Neutral Colors -->
+    <color name="colorSurface">#ECF0F1</color> <!-- Soft White -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Text on Primary (White) -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- Text on Secondary (White) -->
+    <color name="colorOnBackground">#95A5A6</color> <!-- Cool Gray -->
+    <color name="colorOnSurface">#95A5A6</color> <!-- Cool Gray -->
+</resources>
